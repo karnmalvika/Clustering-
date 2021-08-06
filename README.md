@@ -1,5 +1,7 @@
 # Clustering-
-1. K-Means algorithm 2.Agglomerative clustering
+1. K-Means 
+2. Agglomerative clustering
+
 Problem Statement
 
 1. In 'driver_data', you are given a dataset of delivery fleet driver data. For each driver we have two features: mean distance driven per day and the mean percentage of time a driver was >5 mph over the speed limit.
